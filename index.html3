@@ -110,13 +110,3 @@ export default App;
 MONGO_URI=mongodb://localhost:27017/clientauth
 JWT_SECRET=secret123
 
-// =============================
-// Final Notes
-// =============================
-// - Run `npm install express mongoose cors dotenv bcrypt jsonwebtoken` in the backend
-// - Run `npm install axios` in the React frontend
-// - Start backend: node server.js
-// - Start frontend: npm start
-// - Test Register/Login with MongoDB
-//
-// Want this as a downloadable zip or GitHub repo template? Let me know!
